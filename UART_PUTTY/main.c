@@ -22,7 +22,7 @@ int main(void)
 		while(1)
 		{
 			x = getString();
-			//led(x);
+			led(x);
 			
 		}
 } 
